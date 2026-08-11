@@ -1,0 +1,2 @@
+You can download the data from the following link:
+https://www.kaggle.com/competitions/playground-series-s6e8/data
